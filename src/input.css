@@ -2,3 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
+.hoverable:hover .hidden-element {
+    opacity: 1;
+  }
