@@ -677,10 +677,6 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
-.hoverable:hover .hidden-element {
-  opacity: 1;
-}
-
 @media (min-width: 640px) {
   .sm\:hidden {
     display: none;
@@ -690,3 +686,4 @@ video {
     width: 90%;
   }
 }
+
